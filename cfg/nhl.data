@@ -1,4 +1,5 @@
 classes=2
 train=nhl_train.txt
 valid=nhl_test.txt
-names=nhl.names
+names=cfg/nhl.names
+backup=backup
