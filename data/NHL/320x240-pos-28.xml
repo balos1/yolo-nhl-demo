@@ -1,0 +1,14 @@
+<annotation>
+	<folder>NHL_Dataset_320x240</folder>
+	<filename>320x240-pos-28.jpg</filename>
+	<path>/home/cody/GoogleDrive/Data_Sets/NHL_Dataset_320x240/320x240-pos-28.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>213</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>
